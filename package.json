@@ -9,7 +9,8 @@
     "lint": "next lint",
     "prepare": "husky install",
     "format": "prettier --write .",
-    "commit": "commitlint --edit"
+    "commit": "commitlint --edit",
+      "test": "echo \"No tests specified\""
   },
   "dependencies": {
     "next": "14.2.15",
